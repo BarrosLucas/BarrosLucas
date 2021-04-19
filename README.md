@@ -30,7 +30,7 @@
 
 ### Useful Links
 
-:clipboard: [Portfolio](https://barroslucas.github.io/Me/) <br>
+:clipboard: [Portfolio](https://barroslucas.github.io/MyPortfolio/) <br>
 :open_book: [Medium](https://medium.com/@lucasfreitasdebarros) <br>
 :link: [Linkedin](https://www.linkedin.com/in/lucas-b-0ab876105/) <br>
 :page_facing_up: [Lattes](http://lattes.cnpq.br/1654467546676878)
