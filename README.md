@@ -7,6 +7,7 @@
 > - Graduating in Computer Engineering (UFPB)
 > - Computer Technical (IFAL)
 > - Full Stack developer
+> - Currently working on [Phoebus](http://www.phoebus.com.br/)
 
 ### Interest Areas
 
