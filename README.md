@@ -34,4 +34,5 @@
 :clipboard: [Portfolio](https://barroslucas.github.io/MyPortfolio/) <br>
 :open_book: [Medium](https://medium.com/@lucasfreitasdebarros) <br>
 :link: [Linkedin](https://www.linkedin.com/in/lucas-b-0ab876105/) <br>
-:page_facing_up: [Lattes](http://lattes.cnpq.br/1654467546676878)
+:page_facing_up: [Lattes](http://lattes.cnpq.br/1654467546676878) <br>
+:iphone: [Aplicativo Gymbro](https://play.google.com/store/apps/details?id=com.org.lucasbarros.gymbro)
